@@ -97,7 +97,7 @@ section {
   font-weight: 400;
   line-height: 18px;
 }
-.currency_value {
+.currency_value, .currency_value_toconvert {
   color: #555;
   font-weight: 700;
   font-size: 20px;
